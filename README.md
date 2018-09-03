@@ -73,7 +73,7 @@ code above do the following:
 
 ### How
 
-This library was easily made with [kaop-ts](https://github.com/k1r0s/kaop-ts) with provides hooks to attach behaviors on ES6 classes.
+This library was easily made with [kaop-ts](https://github.com/k1r0s/kaop-ts) which provides hooks to attach behaviors on ES6 classes.
 
 ### Credits
 
